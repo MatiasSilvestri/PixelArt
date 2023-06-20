@@ -4,3 +4,5 @@ With JavaScript I could generate a blank canvas of a height and width to your li
 
 # Screenshot
 Developed by Matias Silvestri (MattS.dev)
+
+![screenshot](screenshot.jpg)
